@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <tittle> Tugas 2 Pengembangan Web (webstatis) - Ismi Lailah</tittle>
+    </head>
+    <body>
+        <h1>3 Rekomendasi Perpustakaan Aesthetic di Jakarta</h1>
+        <br>
+        <p style="font-family: Arial;">Perpustakaan selalu identik dengan sebuah bangunan yang kaku dan juga membosankan. Namun hal itu sudah ketinggalan zaman, karena pada saat ini banyak perpustakaan dengan desain unik yang akan membuat para pemustaka betah saat berkunjung ke perpustakaan. Saat ini, pengelola perpustakaan telah berlomba-lomba untuk meningkatkan koleksi buku dan juga fasilitasnya agar banyak pemustaka yang datang berkunjung dan dapat meningkatkan gemar membaca.</p>
+        <p style="font-family: Arial;">Perpustakaan bukan hanya menjadi tempat untuk membaca buku, tetpi juga bisa menjadi tempat untuk hiburan (rekreasi). Perpustakaan mesti memiliki interior desain bergaya kontemporer yang mau bermain-main dengan warna dan juga minimalis. Untuk itu, selain menambah koleksi bacaan, audio visual, dan media lainnya, para pengunjung juga dikasih berbagai spot untuk foto yang bertujuan untuk menarik anak-anak muda agar bisa menjadikannya sebagai latar untuk berfoto.</p>
+        <p style="font-family: Arial;">Berikut rekomendasi perpustakaan aesthetic di Jakarta :</p>
+        <h4 style="font-family: Arial;">1. Perpustakaan Umum Provinsi Jakarta</h4>
+        <p style="font-family:Arial;">Perpustakaan Jakarta yang dihadirkan sebagai tampilan baru dari Taman Ismail Marzuki, lahir sebagai wujud peningkatan budaya literasi masyarakat sekaligus mengenalkan karya-karya para seniman dan budayawan. Perpustakaan ini memiliki sekitar 138.000 koleksi buku yang terdiri dari buku-buku umum, hingga anak. Selain itu, fasilitas di perpustakaan ini juga lengkap, seperti terdapat ruang multifungsi, ruang baca privat, ruang bermain, bilik cerita, bahkan ruang ke-jakartaan yang identik dengan koleksi sejarah.</p>
+        <p style="font-family: Arial;">Dengan adanya fasilitas-fasilitas tersebut, perpustakaan ini bisa dikunjungi oleh seluruh masyarakat dari berbagai usia. Lokasinya berada di kawasan Taman Ismail Marzuki, Jalan Cikini Raya No.73, Cikini, Kec. Menteng, Jakarta Pusat. Info lebih lengkapnya bisa cek di akun Instagram mereka.</p>
+        <a href="https://instagram.com/perpusjkt?igshid=NzZlODBkYWE4Ng==">perpusjkt</a>
+        <br>
+        <img src="images/perpusjkt.jpg" width="500" hight="240">
+        <br>
+        <h4 style="font-family: Arial;">2. Perpustakaan Erasmus Huis</h4>
+        <p style="font-family:Arial;">Perpustakaan ini milik pusat kebudayaan Belanda juga memiliki tempat yang nyaman sekaligus hangat. Interiornya punya desain minimalis dengan aksen dominan putih. Koleksi perpustakaan Erasmus Huis berjumlah sekitar 15.000 judul buku terbitan Indoensia dan Belanda dari kategori sastra, linguistik, sejarah, politik, sosial, seni, budaya, kamus, hingga koleksi anak.Lokasinya berada di Jalan H.R Rasuna Said No.3, Kuningan Timur, DKI Jakarta. Info lebih lengkapnya bisa cek di akun instagramnya.</p>
+        <a href="https://instagram.com/erasmushuis_jakarta?igshid=NzZlODBkYWE4Ng==">perpuserasmushuis</a>
+        <br>
+        <img src="images/erasmushuis.jpg" width="500" hight="240">
+        <br>
+        <h4 style="font-family: Arial;">3. Perpustakaan Freedom Institute</h4>
+        <p style="font-family: Arial;">Perpustakaan ini terletak di lantai dasar Gedung Wisma Bakrie. Perpustakaan ini hadir dengan desain interior berwarna kecoklatan dan bergaya minimalis. Perpustakaan Freedom menyediakan ribuan koleksi literatur di bidang humaniora, ekonomi, sosial, agama, hubungan internasional, hingga terdapat pula jurnal-jurnal lokal maupun internasional. Lokasinya terdapat di Jalan H.R Rasuna Said No.11, Karet Kuningan, Jakarta Selatan. </p>
+        <img src="images/freedom.jpg" width="500" hight="240">
+        <br>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
