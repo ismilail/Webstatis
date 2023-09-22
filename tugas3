@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tugas 3 Pengembangan Web</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='icon' type='images/x-icon' href='images/logouin.png'>
+    <script src='main.js'></script>
+</head>
+<body style=background-color:azure;>
+    <h1 style="color :black; background-color:blanchedalmond"><center>Pertemuan ke-3 : HTML5<br>Pengembangan Web</center></h1>
+    <h2 style="color:blueviolet; background-color:beige"><center>Wisata Edukasi Arsip</center></h2>
+    <img src="images/edukasi.webp" width="400" height="200" style="float: left; margin-right: 10px; border-radius: 5px;">
+    </p>
+    <p style="text-align: justify; font-size: 18px">Salah satu upaya dalam pengembangan obyek wisata yang melibatkan masyarakat adalah dengan melakukan rancangan wisata edukasi. <mark>Wisata edukasi</mark> merupakan perjalanan wisata yang dimaksudkan untuk memberikan gambaran, pengetahuan atau pengalaman belajar secara langsung kepada wisatawan tentang lokasi wisata yang dikunjungi. Motivasi seseorang melakukan perjalanan wisata adalah untuk berlibur, rekreasi, kesehatan, minat atas budaya, kesenian, pendidikan dan penelitian (Suwantoro, 1997). Wisata edukasi atau educational tourism adalah suatu program dimana wisatawan berkunjung ke suatu lokasi wisata dengan tujuan utama untuk memperoleh pengalaman pembelajaran secara langsung di objek wisata tersebut (Rodger, 1998) dalam Sifa (2011). Kegiatan wisata edukasi bisa berupa berbagai bentuk kegiatan tergantung titik berat tujuan kegiatan, mulai dari belajar hal umum yang menarik pada saat berwisata sampai kegiatan wisata yang memang tujuan utamanya merupakan belajar (Ritchie, 2003: 11). Wisata edukasi adalah aktivitas pariwisata yang dilakukan oleh wisatawan yang mengambil liburan sehari dan mereka ang melakukan perjalanan untuk pendidikan dan pembelajaran sebagai tujuan utama atau kedua. Wisata edukasi dilihat berdasarkan pengaruh lingkungan eksternal yang mempengaruhi penawaran dan permintaan produk daya tarik wisata edukasi untuk memenuhi kebutuhan yang berbeda.
+    <br>Jakarta sebagai ibukota negara ternyata juga kaya akan wisata museum. <mark>Menurut Gubernur DKI Jakarta,</mark> saat ini terdapat 142 museum di Propinsi DKI Jakarta (Kompas, 2016). Menurut Dinas Komunikasi, Informatika dan Statistik Pemerintah Provinsi Jakarta (2017), jumlah kunjungan wisatawan ke museum di lingkungan Dinas Kebudayaan dan Pariwisata Jakarta tahun 2015 adalah sebesar 3,185,924 wisatawan yang terdiri dari 3,068,642 wisatawan nusantara dan 117,282 wisatawan mancanegara. Jumlah kunjungan tersebut menunjukkan bahwa minat wisatawan terhadap objek wisata museum masih tinggi. Kondisi ini juga didukung dengan lokasi museum yang berada di kawasan cagar budaya sehingga bisa memberikan daya tarik lebih besar. </h3></p>
+    <h2 style="color:brown; background-color:beige"><center>Museum Bank Mandiri</center></h2>
+    <img src="images/museum bank mandiri.jpg" width="400" height="200" style="float: right; margin-left: 10px; border-radius: 5px;">
+    </p>
+    <p style="text-align: justify; font-size: 18px">Salah satu museum yang ada di Jakarta adalah Museum Bank Mandiri. Lokasi yang diperuntukan sebagai museum adalah bangunan yang berada di area Taman Stasiun Jakarta - Kota dan tercatat sebagai Bangunan Cagar Budaya berdasarkan SK Gubernur DKI Jakarta No.475 tahun 1993. Museum Bank Mandiri memiliki keunikan karena merupakan satu-satunya museum yang mempunyai sejarah panjang bukan hanya dari proses nasionalisasi bank milik Belanda, tetapi juga hasil dari merger beberapa bank yang membentuk Bank Mandiri.
+    <br><mark>Museum Bank Mandiri</mark> menempati sebuah bangunan dengan area seluas 10.039 m² yang sebelumnya difungsikan sebagai kantor perbankan dan perdagangan yang berfokus pada sektor perkebunan. Gedung tersebut mulai dibangun tahun 1933 sebagai gedung Nederlandsche Handel-Maatschappij (NHM) di Hindia Timur yang kemudian lebih dikenal dengan nama de Factorij Batavia. 
+        Bangunan bergaya Nieuw Zakelijk atau Art Deco ini masih menggunakan struktur bangunan asli. Setelah NHM dinasionalisasi, bangunan ini difungsikan sebagai Kantor Pusat BKTN yang kemudian berubah menjadi kantor pusat Bank Exim hingga tahun 1994. Setelah terjadi proses merger antara Bank Ekspor Impor Indonesia (Bank Exim), Bank Dagang Negara (BDN), Bank Bumi Daya ( BBD) dan Bank Pembangunan Indonesia (Bapindo) menjadi Bank Mandiri tahun 1999, bangunan ini kemudian difungsikan sebagai Museum Bank Mandiri (Mardiana, 2006).
+    <br>Berawal dari rangkaian sejarah bank pendahulu maupun bank-bank merger yang melebur menjadi Bank Mandiri, maka diperlukan upaya untuk menjaga agar rangkaian sejarah tersebut tidak terputus. Hal inilah yang melatarbelakangi pendirian sebuah museum perbankan. Bank Mandiri mendirikan sebuah museum perbankan yang memelihara dan merawat peninggalan budaya serta materi bankbank pendahulunya hingga menjadi Bank Mandiri. 
+    Koleksi tersebut diharapkan bermanfaat <mark>tidak saja untuk mengenang kembali nilai-nilai sejarah dan budaya yang terkandung didalamnya,</mark> tetapi juga <mark>sebagai pemicu kemajuan dunia perbankan nasional pada umumnya dan Bank Mandiri pada khususnya.</mark></p>
+    <br>
+    <h3>Musyawarah umum ke-11 (11th General Assembly) International Council of Museum (ICOM) tahun 1974 di Denmark, mengemukakan bahwa museum memiliki fungsi sebagai berikut : </h3>
+    <ol type="1">
+        <li style="font-size: 18px;">Pengumpulan dan pengamanan warisan alam dan budaya</li>
+        <li style="font-size: 18px;">Dokumentasi dan penelitian ilmiah</li>
+        <li style="font-size: 18px;">Konservasi dan preservasi</li>
+        <li style="font-size: 18px;">Penyebaran dan pemerataan ilmu untuk umum</li>
+        <li style="font-size: 18px;">Pengenalan dan penghayatan kesenian</li>
+        <li style="font-size: 18px;">Pengenalan kebudayaan antardaerah dan antarbangsa</li>
+        <li style="font-size: 18px;">Visualisasi warisan alam dan budaya</li>
+        <li style="font-size: 18px;">Cermin pertumbuhan peradaban umat manusia</li>
+        <li style="font-size: 18px;">Pembangkit rasa takwa dan bersyukur kepada Tuhan Yang Maha Esa</li>
+    </ol>
+    <h3>Museum Yang Ada di Jakarta Menurut Pengelolaannya</h3>
+    <table border="1" style="border: dashed; border-color:blue;">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Pengelola</th>
+                <th>Museum</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Direktorat Museum Kebudayaan & Pariwisata RI</td>
+                <td>Museum Nasional, Museum Naskah Proklamasi, Museum Kebangkitan Nasional, Museum Sumpah Pemuda dan Museum Basuki Abdullah</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Pemerintah DKI Jakarta</td>
+                <td>Museum Sejarah Jakarta, Museum Bahari, Museum Seni Rupa & Keramik, Museum Wayang, Museum Taman Prasasti, Museum Juang, Museum Tekstil, Museum Husni Thamrin dan Museum Monumen Nasional</td>
+            <tr>
+            </tr>
+                <td>3</td>
+                <td>Badan Usaha Milik Negara (BUMN), swasta atau perorangan</td>
+                <td>Museum Bank Mandiri, Museum Bank Indonesia, Museum POLRI, Museum Purna Bhakti, Museum Layang-Layang</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <p> Sumber Referensi Belajar HTML5: <a href="https://www.w3schools.com/">W3Schools</a></p>
+    <p>Yang Mengerjakan Tugas Ini:</p>
+    <table>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>:</td>
+            <td><b>Ismi Lailah</b></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>11210251000129</td>
+        </tr>
+        
+    </table>
+    <img src="images/ismi.jpg" width="250" height="300">
+
+
+</body>
+</html>
