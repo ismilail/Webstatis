@@ -7,8 +7,8 @@ img {
     image-resolution: 100%;
 }
 body {
+    background-image: url(images/background.jpg);
     /background-color: rgb(213, 208, 193);/
-    background-image: url(../CSS/museum_nasional/pbackround.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
